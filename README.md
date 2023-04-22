@@ -1,5 +1,5 @@
 ### Óla, meu nome é Daniel 👋
-## Estudante de ADS na faculdade SPTech!
+# Sou estudante de ADS na faculdade SPTech!
 
  <div align="center">
   <a href="https://github.com/DanielRRios">
