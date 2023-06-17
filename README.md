@@ -14,7 +14,3 @@
  <img align="center" alt="Icone-Js" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png">
  </div> </br>
  
- <div>
- 
- <a href="https://www.linkedin.com/in/danielrrios" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </div>
