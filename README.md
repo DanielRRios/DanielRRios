@@ -1,9 +1,8 @@
 
  <div align="center">
   <a href="https://github.com/DanielRRios">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRRios&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRRios&theme=dracula&show_icons=true&hide_border=false&layout=compact"/>
 </div>
-  
  
  
 <div style="display: inline_block"><br>
